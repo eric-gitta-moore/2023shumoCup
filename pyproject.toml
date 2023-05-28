@@ -31,6 +31,7 @@ pydecisions = "^0.2.4"
 prettytable = "^3.7.0"
 scikit-criteria = "^0.8.3"
 plotly = "^5.14.1"
+kaleido = "0.2.1"
 
 [build-system]
 requires = ["poetry-core"]
